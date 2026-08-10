@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "A Comparative Analysis of POS Tagsets for Sanskrit: IL-POST, BIS, Universal Dependencies, and The Sanskrit Library"
+message: "If you use this dataset, mapping lexicon, or conversion scripts, please cite it as below."
+type: dataset
+authors:
+  - family-names: "Joshi"
+    given-names: "Nilesh"
+    affiliation: "Center for Indian Language Technology (CFILT), IIT Bombay"
+    email: "nileshjoshi@iitb.ac.in"
+  - family-names: "Pai"
+    given-names: "Vaishnavi"
+    affiliation: "Sanskrit Bhasha Sanstha, Mumbai"
+    email: "vaishnavipai09@gmail.com"
+  - family-names: "Akilkar"
+    given-names: "Prasad"
+    affiliation: "Sanskrit Bhasha Sanstha, Mumbai"
+    email: "drprasaad@gmail.com"
+repository-code: "https://github.com/yourusername/sanskrit-tagset-mapping"
+keywords:
+  - Sanskrit NLP
+  - Part-of-Speech Tagging
+  - Universal Dependencies
+  - Morphosyntactic Annotation
+  - Computational Linguistics
+license: CC-BY-4.0
